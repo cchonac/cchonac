@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi There, I'm YoonHyuck Cho.</h1>
+<h1 align="center">👋 Hi There</h1>
 <p align="center">
   🎓 Computer Science Student at Inha University<br>
   💡 Interested in <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Data Analysis</b><br>
@@ -7,7 +7,7 @@
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/minjeongma@korea.ac.kr-orange?style=flat&logo=gmail)](hiyoonhyuck@naver.com)
+[![Email](https://img.shields.io/badge/-orange?style=flat&logo=gmail)](hiyoonhyuck@naver.com)
 
 
 ## 🛠️ Technical Skills
