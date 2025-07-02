@@ -2,12 +2,12 @@
 <p align="center">
   🎓 Computer Science Student at Inha University<br>
   💡 Interested in <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Data Analysis</b><br>
-  🔬 currently participating as an undergraduate intern at the DIA Lab, Inha University<br>
+  🔬 currently participating as an undergraduate intern at the <b>DIA Lab</b>, Inha University<br>
 </p>
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/-orange?style=flat&logo=gmail)](hiyoonhyuck@naver.com)
+[![Email](https://img.shields.io/badge/hiyoonhyuck@naver.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:hiyoonhyuck@naver.com)
 
 
 ## 🛠️ Technical Skills
