@@ -7,7 +7,7 @@
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/hiyoonhyuck@naver.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:hiyoonhyuck@naver.com)
+[![Email](https://img.shields.io/badge/hiyoonhyuck@naver.com-orange?style=flat&logo=gmail&logoColor=white)](mailto:hiyoonhyuck@naver.com)
 
 
 ## 🛠️ Technical Skills
@@ -23,7 +23,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
---
+## 📘 Interests
+
+- Anomaly Detection
+- Domain Adaptation
+- Robust Learning under Noisy Labels
+
 
 ## ✍️ Blog & More
 [![Tistory](https://img.shields.io/badge/Tistory-black?style=flat&logo=tistory&logoColor=white)](https://tistory.com)  
